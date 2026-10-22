@@ -9,6 +9,7 @@
 ![AI](https://img.shields.io/badge/AI-GROQ%20%7C%20OPENROUTER-F55036?style=for-the-badge)
 ![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-2ea44f?style=for-the-badge)
 ![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge)
+[![Pylint](https://github.com/mohsenAlTaie/Kronos/actions/workflows/pylint.yml/badge.svg)](https://github.com/mohsenAlTaie/Kronos/actions/workflows/pylint.yml)
 
 </div>
 

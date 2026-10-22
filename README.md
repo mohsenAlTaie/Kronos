@@ -54,7 +54,7 @@ All of it is configured once in `.env` — no code edits needed.
 
 ```bash
 # 1. Get the project & install
-git clone https://github.com/mohsenAITaie/Kronos.git
+git clone https://github.com/mohsenAlTaie/Kronos.git
 cd Kronos
 pip install -r requirements.txt
 
@@ -169,7 +169,7 @@ Send these from your own account:
 
 ```bash
 # 1. نزّل المشروع وثبّت المكتبات
-git clone https://github.com/mohsenAITaie/Kronos.git
+git clone https://github.com/mohsenAlTaie/Kronos.git
 cd Kronos
 pip install -r requirements.txt
 

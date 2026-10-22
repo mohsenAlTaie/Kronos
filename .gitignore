@@ -1,0 +1,5 @@
+.env
+*.session
+data/
+ai_memory.db*
+__pycache__/

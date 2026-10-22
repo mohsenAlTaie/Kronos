@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.session
+*.session-journal
+data/
+ai_memory.db*
+__pycache__/
+*.pyc
+tests/
+.git
+*.zip
